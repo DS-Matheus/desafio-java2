@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1139dc4-f29a-49b0-a10b-733a766045af" name="Changes" comment="Strategy Manual">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio-java2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPuro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Facade/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facade/Facade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Facade/SubsistemaCep/CepApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facade/SubsistemaCep/CepApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Facade/SubsistemaCrm/CrmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facade/SubsistemaCrm/CrmService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Singleton/CepApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/CepApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SingletonLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Singleton/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Strategy/Comportamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/Comportamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Strategy/ComportamentoAgressivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Strategy/ComportamentoDefensivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Strategy/ComportamentoNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoNormal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Strategy/Robo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/Robo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPuro/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -48,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/workspace/desafio-java2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/workspace/desafio-java2/JavaPuro"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaPuro.Strategy" />
